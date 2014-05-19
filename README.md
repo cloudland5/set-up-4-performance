@@ -1,4 +1,4 @@
-set-performance
+set-up-4-performance
 ===============
 
-Fabric deployment scripts for enforcing packages/applications/tools performance and security.
+Provy/Fabric deployment scripts for enforcing packages/applications/tools performance and security.
